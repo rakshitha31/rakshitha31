@@ -77,10 +77,6 @@
 
 ----
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/rakshitha31"><img alt="Rakshitha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rakshitha31&custom_title=rakshitha31's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
 
 
 <br/>
