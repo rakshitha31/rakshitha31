@@ -10,7 +10,7 @@
 ## 💁‍♀️:  About me
 - :school: I am a Masters Student majoring in Computer Science at University of Colorado, Boulder
 - 💻: I have an experience as a Software Developer for 2 years
-- :technologist: I love using Software as a solution for every `Problem`
+- :technologist: I love using Software as a solution for every problem
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
 - :thinking: I’m currently open for: `Summer Internship '23` , this is [MY RESUME](https://drive.google.com/file/d/1kqJwiclmfmLk4oizJTzJ09WOV-OeSbSg/view?usp=sharing).
 - :nerd_face: Always `learning new things`
