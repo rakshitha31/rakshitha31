@@ -9,58 +9,13 @@
 
 ## 💁‍♀️:  About me
 - :school: I am a Masters Student majoring in Computer Science at University of Colorado, Boulder
-- 💻: I have an experience as a Software Developer for 2 years
+- 💻: I have experience as a Software Engineer for 2 years
 - :technologist: I love using Software as a solution for every problem
-- :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for: `Summer Internship '23` , this is [MY RESUME](https://drive.google.com/file/d/1kqJwiclmfmLk4oizJTzJ09WOV-OeSbSg/view?usp=sharing).
+- :student: I’m currently learning: `Linux System Adminsistration` and `Software Engineering`.
+- :thinking: I’m currently open for: `Summer Internships '23` , this is [MY RESUME](https://drive.google.com/file/d/1kqJwiclmfmLk4oizJTzJ09WOV-OeSbSg/view?usp=sharing).
 - :nerd_face: Always `learning new things`
-
+	
 <br>
-
-<br>
-
-
-## 🛠️ My Skills
-
-### 👉 Programming languages
-
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
-  </a> 
- 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
-  </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a>
-</p>
-
-
- ### 👉 Software & Tools
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-  
-</p>
-
-
-<br/>
 
 ## 📊 Github Stats
 
