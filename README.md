@@ -12,7 +12,7 @@
 - 💻: I have experience as a Software Engineer for 2 years
 - :technologist: I love using Software as a solution for every problem
 - :student: I’m currently learning: `Linux System Adminsistration` and `Software Engineering`.
-- :thinking: I’m currently open for: `Summer Internships '23` , this is [MY RESUME](https://drive.google.com/file/d/1kqJwiclmfmLk4oizJTzJ09WOV-OeSbSg/view?usp=sharing).
+- :thinking: I’m currently open for: `Summer Internships '23` , this is [MY RESUME](https://drive.google.com/file/d/1VjekYdz7RRi2BeKXsTDfZ54125PSX9wk/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 	
 <br>
