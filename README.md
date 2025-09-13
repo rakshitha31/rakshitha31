@@ -8,10 +8,10 @@
 
 
 ## 💁‍♀️:  About me
-- :school: I am a Masters Student majoring in Computer Science at University of Colorado, Boulder 
-- 💻 I have worked as a Fullstack Developer for 2 years
-- :student: I’m currently learning: `User Centered Design` and `Software Engineering`.
-- :thinking: I’m currently open for: `Full Time roles from May 2024` , this is [MY RESUME](https://drive.google.com/file/d/1VjekYdz7RRi2BeKXsTDfZ54125PSX9wk/view?usp=drive_link).
+- :school: I am a Software Developer at AWS Sagemaker Unified Studio
+- 💻 Backend, Infra, Ops (swiss-knife of an SWE)
+- I am currently 📑 learning about AI like everyone else 
+- :thinking: I’m currently open for: `Full Time roles` , this is [MY RESUME](https://drive.google.com/file/d/1VjekYdz7RRi2BeKXsTDfZ54125PSX9wk/view?usp=drive_link).
 	
 <br>
 
